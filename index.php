@@ -1,1 +1,3 @@
-first-project Info
+<?php
+
+	echo 'first-project Info';
